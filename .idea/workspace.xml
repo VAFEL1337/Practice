@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6ef86918-c68c-43eb-bd91-d058730f1c7c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kBRTNgMs9ZreIl3EMauchHa7UL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../untitled" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="fg" />
+      <recent name="d" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.main">
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main" />
+      <module name="untitled2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="s124" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="s124.s124" />
+      <module name="untitled2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="s124.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="s145" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="s145" />
+      <module name="untitled2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="s194" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="s194" />
+      <module name="untitled2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="s50" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="s50" />
+      <module name="untitled2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="week1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week1" />
+      <module name="untitled2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.main" />
+        <item itemvalue="Application.week1" />
+        <item itemvalue="Application.s194" />
+        <item itemvalue="Application.s145" />
+        <item itemvalue="Application.s50" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6ef86918-c68c-43eb-bd91-d058730f1c7c" name="Default Changelist" comment="" />
+      <created>1605172004996</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605172004996</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="708" y="294" key="FileChooserDialogImpl" timestamp="1605866110802">
+      <screen x="0" y="0" width="1856" height="1080" />
+    </state>
+    <state x="708" y="294" key="FileChooserDialogImpl/0.0.1856.1080@0.0.1856.1080" timestamp="1605866110802" />
+    <state x="709" y="294" key="FileChooserDialogImpl/0.0.1858.1080@0.0.1858.1080" timestamp="1605613251012" />
+    <state width="1813" height="358" key="GridCell.Tab.0.bottom" timestamp="1605873020587">
+      <screen x="0" y="0" width="1856" height="1080" />
+    </state>
+    <state width="1813" height="358" key="GridCell.Tab.0.bottom/0.0.1856.1080@0.0.1856.1080" timestamp="1605873020587" />
+    <state width="1815" height="138" key="GridCell.Tab.0.bottom/0.0.1858.1080@0.0.1858.1080" timestamp="1605787427964" />
+    <state width="1813" height="358" key="GridCell.Tab.0.center" timestamp="1605873020587">
+      <screen x="0" y="0" width="1856" height="1080" />
+    </state>
+    <state width="1813" height="358" key="GridCell.Tab.0.center/0.0.1856.1080@0.0.1856.1080" timestamp="1605873020587" />
+    <state width="1815" height="138" key="GridCell.Tab.0.center/0.0.1858.1080@0.0.1858.1080" timestamp="1605787427963" />
+    <state width="1813" height="358" key="GridCell.Tab.0.left" timestamp="1605873020587">
+      <screen x="0" y="0" width="1856" height="1080" />
+    </state>
+    <state width="1813" height="358" key="GridCell.Tab.0.left/0.0.1856.1080@0.0.1856.1080" timestamp="1605873020587" />
+    <state width="1815" height="138" key="GridCell.Tab.0.left/0.0.1858.1080@0.0.1858.1080" timestamp="1605787427963" />
+    <state width="1813" height="358" key="GridCell.Tab.0.right" timestamp="1605873020587">
+      <screen x="0" y="0" width="1856" height="1080" />
+    </state>
+    <state width="1813" height="358" key="GridCell.Tab.0.right/0.0.1856.1080@0.0.1856.1080" timestamp="1605873020587" />
+    <state width="1815" height="138" key="GridCell.Tab.0.right/0.0.1858.1080@0.0.1858.1080" timestamp="1605787427964" />
+    <state width="1813" height="364" key="GridCell.Tab.1.bottom" timestamp="1605870951011">
+      <screen x="0" y="0" width="1856" height="1080" />
+    </state>
+    <state width="1813" height="364" key="GridCell.Tab.1.bottom/0.0.1856.1080@0.0.1856.1080" timestamp="1605870951011" />
+    <state width="1815" height="364" key="GridCell.Tab.1.bottom/0.0.1858.1080@0.0.1858.1080" timestamp="1605613928193" />
+    <state width="1813" height="364" key="GridCell.Tab.1.center" timestamp="1605870951011">
+      <screen x="0" y="0" width="1856" height="1080" />
+    </state>
+    <state width="1813" height="364" key="GridCell.Tab.1.center/0.0.1856.1080@0.0.1856.1080" timestamp="1605870951011" />
+    <state width="1815" height="364" key="GridCell.Tab.1.center/0.0.1858.1080@0.0.1858.1080" timestamp="1605613928193" />
+    <state width="1813" height="364" key="GridCell.Tab.1.left" timestamp="1605870951011">
+      <screen x="0" y="0" width="1856" height="1080" />
+    </state>
+    <state width="1813" height="364" key="GridCell.Tab.1.left/0.0.1856.1080@0.0.1856.1080" timestamp="1605870951011" />
+    <state width="1815" height="364" key="GridCell.Tab.1.left/0.0.1858.1080@0.0.1858.1080" timestamp="1605613928193" />
+    <state width="1813" height="364" key="GridCell.Tab.1.right" timestamp="1605870951011">
+      <screen x="0" y="0" width="1856" height="1080" />
+    </state>
+    <state width="1813" height="364" key="GridCell.Tab.1.right/0.0.1856.1080@0.0.1856.1080" timestamp="1605870951011" />
+    <state width="1815" height="364" key="GridCell.Tab.1.right/0.0.1858.1080@0.0.1858.1080" timestamp="1605613928193" />
+    <state x="585" y="250" key="run.anything.popup" timestamp="1605613559688">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="585" y="250" key="run.anything.popup/0.0.1858.1080@0.0.1858.1080" timestamp="1605613559688" />
+    <state x="592" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1605612912711">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="592" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1858.1080@0.0.1858.1080" timestamp="1605612912711" />
+  </component>
+</project>
